@@ -1,6 +1,6 @@
 package testScript;
 
-import java.io.FileInputStream;
+import java.io.FileInputStream; 
 import java.io.IOException;
 import java.time.Duration;
 import java.util.Properties;
